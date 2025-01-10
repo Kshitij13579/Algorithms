@@ -7,3 +7,6 @@ Repository to practice DSA and Algo
     - Boundary Traversal
     - DepthofTree
     - Depth and height of node in a tree
+    - Identical Trees
+    - MirrorTree
+    - Symmetric tree
