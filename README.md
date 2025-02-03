@@ -7,6 +7,8 @@ Repository to practice DSA and Algo
 - Recursion
     - Factorial 
     - Greatest common Divisor
+    - String Palindrome
+    - Fibonacci 
 
 - Trees
     - Basic Tree Traversal (Inorder, Preorder, Postorder)
