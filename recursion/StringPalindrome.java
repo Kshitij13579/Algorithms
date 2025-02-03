@@ -8,7 +8,7 @@ public class StringPalindrome {
      */
     static boolean isPalindrome(String s){
         if(s.isEmpty())
-            return false;
+            return true;
         int left=0;
         int right=s.length()-1;
 
@@ -27,7 +27,7 @@ public class StringPalindrome {
      */
     static boolean isPalindromeRecursion(String s){
         if(s.isEmpty())
-            return false;
+            return true;
         int left=0;
         int right=s.length()-1;
         return isPalindromeUtil(s,left,right);
