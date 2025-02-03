@@ -45,7 +45,7 @@ public class SecondLargestElement {
         return secondlargest;
 
     }
-    //one apss search approach
+    //one pass search approach
     /*Time: O(n)
      * O(1)
      */
