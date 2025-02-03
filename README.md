@@ -8,7 +8,7 @@ Repository to practice DSA and Algo
     - Factorial 
     - Greatest common Divisor
     - String Palindrome
-    - Fibonacci 
+    - Nth Fibonacci Number 
 
 - Trees
     - Basic Tree Traversal (Inorder, Preorder, Postorder)
