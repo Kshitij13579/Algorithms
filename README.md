@@ -1,6 +1,13 @@
 # Algorithms
 Repository to practice DSA and Algo
 
+- Arrays
+    - SecondLargestElement
+
+- Recursion
+    - Factorial 
+    - Greatest common Divisor
+
 - Trees
     - Basic Tree Traversal (Inorder, Preorder, Postorder)
     - Level Order Traversal
