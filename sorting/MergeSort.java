@@ -64,7 +64,7 @@ public class MergeSort {
 
     public static void main(String[] args) {
        
-        int arr[]={4,8,3,5,7,7,9,3,2,10,59,1,3};
+        int arr[]={1};
         
         for(int val:arr)
             System.out.print(val+" ");
