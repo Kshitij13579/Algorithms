@@ -1,8 +1,16 @@
 # Algorithms
 Repository to practice DSA and Algo
 
+- Warm up
+    - Sum of array elements
+    - Find the value of given index in array
+
 - Arrays
     - SecondLargestElement
+
+-Sorting
+    - MergeSort
+    - Quick Sort
 
 - Recursion
     - Factorial 
