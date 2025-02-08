@@ -16,6 +16,10 @@ Repository to practice DSA and Algo
 
 - Arrays
     - SecondLargestElement
+    - MinMax Element in Array
+    - Reverse Array In Place
+    - Two Max Sum in Array
+    - Three Max Sum in Array
 
 -Sorting
     - MergeSort
