@@ -14,6 +14,16 @@ Repository to practice DSA and Algo
     - Fascinating Number
     - Minimum value to add to make the array balance
 
+- Warm up 2
+    - Richest Customer Wealth
+    - Reverse Number (can be negative)
+    - Nth Row of Pascal Triangle
+    - Running SUm 1D array
+    - Jewels and Stones
+    - Minimum Absolute Difference
+    - Move Zeroes
+    - Three Consecutive Odd Numbers
+
 - Arrays
     - SecondLargestElement
     - MinMax Element in Array
