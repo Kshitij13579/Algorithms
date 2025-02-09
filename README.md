@@ -31,9 +31,10 @@ Repository to practice DSA and Algo
     - Two Max Sum in Array
     - Three Max Sum in Array
 
--Sorting
+- Sorting
     - MergeSort
     - Quick Sort
+    - Radix Sort
 
 - Recursion
     - Factorial 
