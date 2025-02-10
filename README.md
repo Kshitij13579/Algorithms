@@ -31,6 +31,9 @@ Repository to practice DSA and Algo
     - Two Max Sum in Array
     - Three Max Sum in Array
 
+- Two Pointers
+    - Remove Duplicates (in place)
+
 - Sorting
     - MergeSort
     - Quick Sort
