@@ -35,6 +35,8 @@ Repository to practice DSA and Algo
     - MergeSort
     - Quick Sort
     - Radix Sort
+    - Counting Sort
+    - Top K Frequent Elements
 
 - Recursion
     - Factorial 

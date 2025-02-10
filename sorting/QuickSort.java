@@ -38,7 +38,7 @@ public class QuickSort {
 
 
     public static void main(String[] args) {
-        int[] arr=new int[]{987,456,33,2,1,678};
+        int[] arr=new int[]{2,1,2,1,1};
         int[] arr1=new int[]{1};
         quicksort(arr, 0, arr.length-1);
         quicksort(arr1, 0, arr1.length-1);
