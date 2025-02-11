@@ -33,6 +33,7 @@ Repository to practice DSA and Algo
 
 - Two Pointers
     - Remove Duplicates (in place)
+    - Trapping Rain Water
 
 - Sorting
     - MergeSort
