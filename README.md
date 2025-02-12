@@ -34,6 +34,7 @@ Repository to practice DSA and Algo
 - Two Pointers
     - Remove Duplicates (in place)
     - Trapping Rain Water
+    - Intersection of Array
 
 - Sorting
     - MergeSort
@@ -41,6 +42,7 @@ Repository to practice DSA and Algo
     - Radix Sort
     - Counting Sort
     - Top K Frequent Elements
+    - Patience Sorting
 
 - Recursion
     - Factorial 
