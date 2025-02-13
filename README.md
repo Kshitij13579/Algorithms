@@ -39,6 +39,7 @@ Repository to practice DSA and Algo
 - Sliding Window
     - Longest Common Substring with unique elements
     - Number of Good Subarray
+    - Minimum Consequtive Cards to pick
 
 - Sorting
     - MergeSort
