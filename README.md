@@ -36,6 +36,10 @@ Repository to practice DSA and Algo
     - Trapping Rain Water
     - Intersection of Array
 
+- Sliding Window
+    - Longest Common Substring with unique elements
+    - Number of Good Subarray
+
 - Sorting
     - MergeSort
     - Quick Sort
