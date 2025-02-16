@@ -40,6 +40,7 @@ Repository to practice DSA and Algo
     - Longest Common Substring with unique elements
     - Number of Good Subarray
     - Minimum Consequtive Cards to pick
+    - Maximum Sum of Distinct Subarrays With Length K
 
 - Sorting
     - MergeSort
