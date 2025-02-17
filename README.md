@@ -41,6 +41,8 @@ Repository to practice DSA and Algo
     - Number of Good Subarray
     - Minimum Consequtive Cards to pick
     - Maximum Sum of Distinct Subarrays With Length K
+    - Sliding Subarray Beauty
+    - Maximum Points you can obtain from cards
 
 - Sorting
     - MergeSort
