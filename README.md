@@ -30,6 +30,16 @@ Repository to practice DSA and Algo
     - Reverse Array In Place
     - Two Max Sum in Array
     - Three Max Sum in Array
+    - Two Sum
+    - Two Sum 2 - Array Sorted
+    - Merge 2 Sorted Array
+    - Pascal Triangle
+    - Pascal Triangle 2
+    - Best Time to Buy and Sell Stocks - One Transaction
+    - Best time to Buy and Sell Stocks 2 - Multiple Transaction
+    - Majority Element
+    - Majority Element 2
+    - Missing Ranges
 
 - Two Pointers
     - Remove Duplicates (in place)
