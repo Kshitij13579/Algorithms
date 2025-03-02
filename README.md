@@ -40,6 +40,9 @@ Repository to practice DSA and Algo
     - Majority Element
     - Majority Element 2
     - Missing Ranges
+    - Contains Duplicate
+    - Contains Duplicate 2
+    - Summary Ranges
 
 - Two Pointers
     - Remove Duplicates (in place)
