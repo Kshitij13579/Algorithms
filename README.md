@@ -43,6 +43,15 @@ Repository to practice DSA and Algo
     - Contains Duplicate
     - Contains Duplicate 2
     - Summary Ranges
+    - Range Sum query immutable
+    - Range Sum query 2D immutable
+    - Remove Element
+    - Intersection of Array 2
+    - Next Greater Element
+    - Next Greater Element 2
+    - Next Greater Element 3
+    - Rank teams by votes
+    - Reduce Array Size to Half
 
 - Two Pointers
     - Remove Duplicates (in place)
