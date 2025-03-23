@@ -52,6 +52,14 @@ Repository to practice DSA and Algo
     - Next Greater Element 3
     - Rank teams by votes
     - Reduce Array Size to Half
+    - Distribute Candies
+    - Unique Email Address
+    - Rank Transform of an Array
+    - Check if it is a Straight line
+    - Matrix Diagnal Sum
+    - Height Checker
+    - Base Ball Game
+    - Crawl Log Folder
 
 - Two Pointers
     - Remove Duplicates (in place)
