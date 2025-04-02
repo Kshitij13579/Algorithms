@@ -60,6 +60,11 @@ Repository to practice DSA and Algo
     - Height Checker
     - Base Ball Game
     - Crawl Log Folder
+    - Find Common Characters
+    - Third Maximum
+    - All numbers disappeared in array
+    - Minimum moves to Equal Array Elements 
+    - Assign Cookies
 
 - Two Pointers
     - Remove Duplicates (in place)
