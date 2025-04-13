@@ -65,6 +65,11 @@ Repository to practice DSA and Algo
     - All numbers disappeared in array
     - Minimum moves to Equal Array Elements 
     - Assign Cookies
+    - Degree of Array
+    - Can Place Flowers
+    - Plus one
+    - Single number
+    - Single number - 2
 
 - Two Pointers
     - Remove Duplicates (in place)
