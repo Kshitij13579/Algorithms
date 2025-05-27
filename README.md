@@ -73,6 +73,7 @@ Repository to practice DSA and Algo
     - Single number - 3
     - Multiply Strings
     - Valid Tic Tac Toe
+    - Ones and Zeroes
 
 - Two Pointers
     - Remove Duplicates (in place)
