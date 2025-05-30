@@ -74,6 +74,7 @@ Repository to practice DSA and Algo
     - Multiply Strings
     - Valid Tic Tac Toe
     - Ones and Zeroes
+    - Add Binary
 
 - Two Pointers
     - Remove Duplicates (in place)
