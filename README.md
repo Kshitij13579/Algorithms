@@ -75,6 +75,7 @@ Repository to practice DSA and Algo
     - Valid Tic Tac Toe
     - Ones and Zeroes
     - Add Binary
+    - Shuffle Array
 
 - Two Pointers
     - Remove Duplicates (in place)
