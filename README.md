@@ -76,6 +76,7 @@ Repository to practice DSA and Algo
     - Ones and Zeroes
     - Add Binary
     - Shuffle Array
+    - Kids with maximum candies
 
 - Two Pointers
     - Remove Duplicates (in place)
