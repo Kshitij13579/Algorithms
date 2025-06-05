@@ -77,6 +77,7 @@ Repository to practice DSA and Algo
     - Add Binary
     - Shuffle Array
     - Kids with maximum candies
+    - Sum of all subset XOR totals
 
 - Two Pointers
     - Remove Duplicates (in place)
