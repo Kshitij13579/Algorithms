@@ -78,6 +78,7 @@ Repository to practice DSA and Algo
     - Shuffle Array
     - Kids with maximum candies
     - Sum of all subset XOR totals
+    - Count Negative Numbers in a Sorted Matrix
 
 - Two Pointers
     - Remove Duplicates (in place)
